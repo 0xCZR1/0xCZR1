@@ -15,7 +15,7 @@ Penetration tester specializing in IT systems with occasional red team engagemen
 
 | CVE | Severity | Product | Description |
 |-----|----------|---------|-------------|
-| [CVE-2026-22783](https://github.com/advisories/GHSA-qhqj-8qw6-wp8v) | Critical 9.6 | DFIR-IRIS | Arbitrary File Deletion via Mass Assignment |
+| [CVE-2026-22783](https://github.com/advisories/GHSA-qhqj-8qw6-wp8v) | High | DFIR-IRIS | Arbitrary File Deletion via Mass Assignment |
 | CVE-2026-XXXXX | TBD | Under Embargo | 8 additional vulnerabilities pending disclosure |
 
 ## Current Focus
