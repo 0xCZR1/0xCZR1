@@ -17,6 +17,7 @@ Penetration tester specializing in IT systems with occasional red team engagemen
 |-----|----------|---------|-------------|
 | [CVE-2026-22783](https://github.com/dfir-iris/iris-web/security/advisories/GHSA-qhqj-8qw6-wp8v) | High | DFIR-IRIS | Arbitrary File Deletion via Mass Assignment |
 | CVE-2026-XXXXX | TBD | Under Embargo | 8 additional vulnerabilities pending disclosure |
+| CVE-2026-XXXXX | Medium | Microsoft Windows Kernel | Simple DoS - Will be published when patched |
 
 ## Current Focus
 
