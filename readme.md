@@ -4,7 +4,7 @@ Penetration Tester | Security Researcher | Malware Development
 
 ## About
 
-Penetration tester specializing in IT systems with occasional red team engagements. Member of **Zero Infinity Lab**, an independent security research team.
+I try hard
 
 ## Certifications & Achievements
 
